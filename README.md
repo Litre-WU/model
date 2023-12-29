@@ -3,10 +3,14 @@
 
 # 食用方法
 
-`pip install ultralytics`
+```bash
+pip install ultralytics
+```
 
 # 英文数字验证码
-```
+```python
+from ultralytics import YOLO
+
 model = YOLO('capture.pt')
 
 results = model.predict('test.jpg')
@@ -17,7 +21,9 @@ print(results)
 ```
 
 # 滑块验证码
-```
+```python
+from ultralytics import YOLO
+
 model = YOLO('slideCaptcha.pt')
 
 results = model.predict('test.jpg')
