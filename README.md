@@ -28,7 +28,7 @@ model = YOLO('slideCaptcha.pt')
 
 results = model.predict('test.jpg')
 
-results = [r.boxes.data.tolist() for r in results]
+results = [r.boxes.data.tolist() for r in results if r.boxes.data.tolist()]
 
 print(results)
 ```
