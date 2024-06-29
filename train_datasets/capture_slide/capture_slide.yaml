@@ -1,0 +1,6 @@
+path: ../capture_slide
+train: images/train_1
+val: images/train_1
+test:
+names:
+  0: gap

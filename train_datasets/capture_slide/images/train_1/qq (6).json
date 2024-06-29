@@ -1,0 +1,37 @@
+{
+  "version": "2.3.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gap",
+      "points": [
+        [
+          260.57627118644064,
+          228.05084745762713
+        ],
+        [
+          339.8135593220339,
+          228.05084745762713
+        ],
+        [
+          339.8135593220339,
+          308.135593220339
+        ],
+        [
+          260.57627118644064,
+          308.135593220339
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "qq (6).png",
+  "imageData": null,
+  "imageHeight": 390,
+  "imageWidth": 672
+}

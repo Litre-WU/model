@@ -1,0 +1,37 @@
+{
+  "version": "2.3.6",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gap",
+      "points": [
+        [
+          226.561797752809,
+          136.60674157303376
+        ],
+        [
+          332.17977528089887,
+          136.60674157303376
+        ],
+        [
+          332.17977528089887,
+          243.34831460674158
+        ],
+        [
+          226.561797752809,
+          243.34831460674158
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "dou2 (22).jpeg",
+  "imageData": null,
+  "imageHeight": 344,
+  "imageWidth": 552
+}

@@ -1,0 +1,37 @@
+{
+  "version": "2.3.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "gap",
+      "points": [
+        [
+          78.18594104308391,
+          81.79138321995464
+        ],
+        [
+          118.32199546485262,
+          81.79138321995464
+        ],
+        [
+          118.32199546485262,
+          122.60770975056687
+        ],
+        [
+          78.18594104308391,
+          122.60770975056687
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "capture (11).png",
+  "imageData": null,
+  "imageHeight": 140,
+  "imageWidth": 360
+}
